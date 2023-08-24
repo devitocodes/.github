@@ -1,3 +1,5 @@
+[![Slack Status](https://img.shields.io/badge/chat-on%20slack-%2336C5F0)](https://join.slack.com/t/devitocodes/shared_invite/zt-gtd2yxj9-Y31YKk_7lr9AwfXeL2iMFg)
+
 # Devito: Symbolic Finite Difference Computation
 
 [Devito](http://www.devitoproject.org) is a Python package to implement
